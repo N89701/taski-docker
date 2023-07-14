@@ -129,4 +129,4 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: username/taski_frontend:latest
+          tags: nick0901/taski_frontend:latest
